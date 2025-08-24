@@ -36,3 +36,6 @@ Two-part Machine Learning project on the **Ames Housing dataset**:
 - Advanced RMSE: ⟨fill⟩  
 - Kaggle submission score: ⟨fill⟩  
 
+## License
+MIT – see "LICENSE".
+
