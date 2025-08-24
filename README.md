@@ -10,11 +10,11 @@ Two-part Machine Learning project on the **Ames Housing dataset**:
 ---
 
 ## Files in this repo
-- "01_baseline/"
+- `baseline_01/`
   - `Baseline_Eda_Models_01.ipynb` – first notebook from the start of the course  
   - Includes: EDA, initial cleaning, PCA, KNN, LWLR, tree models
   - Data files: `train.csv`, `test.csv`, `submission.csv`
-- `02_advanced/`
+- `advanced_02/`
   - `Ames_assignment_4(2).ipynb` – final notebook (graded 100/100)  
   - Includes: advanced feature engineering, ensembles, hyperparameter tuning, pipeline  
   - Data files: `train.csv`, `test.csv`, `submission.csv`
