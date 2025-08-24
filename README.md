@@ -32,9 +32,9 @@ Two-part Machine Learning project on the **Ames Housing dataset**:
 ---
 
 ## Results
-- Baseline RMSE: ⟨fill⟩  
-- Advanced RMSE: ⟨fill⟩  
-- Kaggle submission score: ⟨fill⟩  
+- Baseline RMSE: 38,787  
+- Advanced RMSE: 22,998
+- Kaggle final submission score: 4007  
 
 ## License
 MIT – see "LICENSE".
