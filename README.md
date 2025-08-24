@@ -1,6 +1,38 @@
-# ames-housing-price-prediction
-Two part ML project on the Ames Housing dataset: baseline. advanced (EDA, cleaning, feature engineering, PCA, KNN , LWLR, tree models &amp; ensembles) with cross - validation and a reproducible pipeline. Graded 100/100 for the course and the final project
+# Ames Housing – Price Prediction (ML Coursework)
 
-The first File at the start of the course - First_House_Ames_price_predict (zip file) : contains the test.csv , train.csv , submittion.csv and a google colab project (main) - Baseline_Eda_Models_01.ipynb
+**Grade:** 100/100 (final project)  
+**Tools:** Python, pandas, numpy, scikit-learn, matplotlib, seaborn  
 
-The second File (final project in the course) - Ames_ML_Second (zip file) : contains the test.csv ,train.csv ,submittion.csv and a google colab project (main) - Ames_assignment_4(2).ipynb 
+Two-part Machine Learning project on the **Ames Housing dataset**:  
+- **Part A (baseline):** EDA, data cleaning, basic feature engineering, PCA, and baseline models (KNN, LWLR, Decision Tree).  
+- **Part B (advanced):** extended feature engineering, ensembles, hyperparameter tuning, cross-validation, and a reproducible ML pipeline.
+
+---
+
+## Files in this repo
+- `01_baseline/`
+  - `Baseline_Eda_Models_01.ipynb` – first notebook from the start of the course  
+  - Includes: EDA, initial cleaning, PCA, KNN, LWLR, tree models
+  - Data files: `train.csv`, `test.csv`, `submission.csv`
+- `02_advanced/`
+  - `Ames_assignment_4(2).ipynb` – final notebook (graded 100/100)  
+  - Includes: advanced feature engineering, ensembles, hyperparameter tuning, pipeline  
+  - Data files: `train.csv`, `test.csv`, `submission.csv`
+
+---
+
+## Methods
+- **EDA:** distributions, correlations, outlier detection  
+- **Cleaning:** missing values, categorical encoding, scaling  
+- **Feature Engineering:** polynomial features, PCA, domain-driven transformations  
+- **Models (baseline):** KNN, LWLR, Decision Tree  
+- **Models (advanced):** ensembles (Random Forest, Gradient Boosting), hyperparameter tuning  
+- **Evaluation:** cross-validation, RMSE, Kaggle submission
+
+---
+
+## Results
+- Baseline RMSE: ⟨fill⟩  
+- Advanced RMSE: ⟨fill⟩  
+- Kaggle submission score: ⟨fill⟩  
+
